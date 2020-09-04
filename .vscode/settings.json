@@ -1,0 +1,11 @@
+{
+     "files.associations": {
+          "future": "cpp",
+          "system_error": "cpp",
+          "xlocale": "cpp",
+          "iostream": "cpp",
+          "utility": "cpp",
+          "vector": "cpp",
+          "xutility": "cpp"
+     }
+}
